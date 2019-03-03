@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import pyautogui, time
-#coordinate 座標
+
+
 times = 20
 
 time.sleep(2)
