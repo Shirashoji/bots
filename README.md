@@ -9,4 +9,4 @@ Linebotを改良
 # click.py
 クリックを何回するかを入力するとその数だけクリック（左）される
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
